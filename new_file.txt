@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 CS 195
+=======
+What a wonderful file this is.
+>>>>>>> 8c4d7f510eb320e1c08aef2050a8c6ed1717a38b
